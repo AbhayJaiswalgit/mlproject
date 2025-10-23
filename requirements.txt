@@ -1,10 +1,10 @@
-pandas
-numpy
+pandas==1.5.3
+numpy==1.26.4
 seaborn
 matplotlib
 scikit-learn
-catboost
-xgboost
+catboost==1.2
+xgboost==1.7.6
 dill
-Flask
+Flask==2.3.3
 #-e .
